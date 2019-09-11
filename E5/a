@@ -1,0 +1,26 @@
+
+    // let value = pointArr.length;
+    // pointArr.forEach(element => {
+    //     main.innerText =("*")
+    // }); 
+    
+    // (let kk = 0; kk <pointArr.length; kk++) {
+
+    //     main.innerText =("*")
+    
+    // }
+    
+
+
+
+    // if (parseInt(value % 1) == 0)
+// sum += num % 10;
+// num = parseInt(num / 10);
+
+
+
+// function draw(){
+//     main.innerText +=("*")
+//     const breaker = document.createElement("br");
+//     main.append(breaker)  
+// }
